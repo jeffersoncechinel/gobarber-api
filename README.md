@@ -29,8 +29,9 @@ Requirements
 
 Let's get started
 ----
-```
 * Important! You should have a database created manualy on your PostgreSQL then set it along with its credentials in ormconfig.json file.
+
+```
 
 # clone the repository
 git clone https://github.com/jeffersoncechinel/gobarber-api.git
@@ -43,6 +44,9 @@ yarn install
 
 # set your environment variables in .env file
 cp .env.example .env
+
+# set database credentials in ormconfig.json
+cp ormconfig.json.example ormconfig.json
 
 # apply the database migrations
 yarn typeorm:migrate
