@@ -1,7 +1,6 @@
 # GoBarber API
 
-This is the repository for the GoBarber API application.  
-If you don't know what GoBarber is please have a look [here](https://github.com/jeffersoncechinel/gobarber).
+This is the repository for the GoBarber API application. If you don't know what GoBarber is please have a look [here](https://github.com/jeffersoncechinel/gobarber).
 
 The purpose of this project is to provide backend functionality for the Desktop and Mobile applications.
 
