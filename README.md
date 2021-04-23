@@ -1,5 +1,9 @@
 # GoBarber API
 
+<p align="center">
+  <img src="https://github.com/jeffersoncechinel/gobarber-web/blob/master/resources/logo.svg" alt="logo" />
+</p>
+
 This is the repository for the GoBarber API application. If you don't know what GoBarber is please have a look [here](https://github.com/jeffersoncechinel/gobarber).
 
 The purpose of this project is to provide backend functionality for the Desktop and Mobile applications.
