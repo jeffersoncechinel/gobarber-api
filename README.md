@@ -28,6 +28,7 @@ Requirements
 * [NodeJS](https://nodejs.org/)
 * [Yarn](https://yarnpkg.com/)
 * [PostgreSQL](https://www.postgresql.org/)
+* [MongoDB](https://www.mongodb.com/)
 * [Redis](https://redis.io/)
 
 Let's get started
