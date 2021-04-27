@@ -11,7 +11,7 @@ The purpose of this project is to provide backend functionality for the Desktop 
 You may also want to see the [GoBarber Web repository](https://github.com/jeffersoncechinel/gobarber-web)  
 You may also want to see the [GoBarber Mobile repository](https://github.com/jeffersoncechinel/gobarber-mobile)
 
-The application is written NodeJS + Express based on Typescript.
+The application is written Typescript + NodeJS + Express.
 
 Implementations
 ----
