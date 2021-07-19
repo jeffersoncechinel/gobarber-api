@@ -1,14 +1,17 @@
 # GoBarber API
 
-This is the repository for the GoBarber API application.
-If you don't know what GoBarber is please have a look [here](https://github.com/jeffersoncechinel/gobarber).
+<p align="center">
+  <img src="https://github.com/jeffersoncechinel/gobarber-web/blob/master/resources/logo.svg" alt="logo" />
+</p>
 
-Its purpose is to provide backend functionality for the [GoBarber Web](https://github.com/jeffersoncechinel/gobarber-web) and [GoBarber Mobile](https://github.com/jeffersoncechinel/gobarber-mobile) applications.
+This is the repository for the GoBarber API application. If you don't know what GoBarber is please have a look [here](https://github.com/jeffersoncechinel/gobarber).
+
+The purpose of this project is to provide backend functionality for the Desktop and Mobile applications.
 
 You may also want to see the [GoBarber Web repository](https://github.com/jeffersoncechinel/gobarber-web)
 You may also want to see the [GoBarber Mobile repository](https://github.com/jeffersoncechinel/gobarber-mobile)
 
-The application is written NodeJS + Express based on Typescript.
+The application is written in Typescript + NodeJS + Express.
 
 Implementations
 ----
@@ -25,11 +28,12 @@ Requirements
 * [NodeJS](https://nodejs.org/)
 * [Yarn](https://yarnpkg.com/)
 * [PostgreSQL](https://www.postgresql.org/)
+* [MongoDB](https://www.mongodb.com/)
 * [Redis](https://redis.io/)
 
 Let's get started
 ----
-* Important! You should have a database created manually on your PostgreSQL then set it along with its credentials in ormconfig.json file.
+:exclamation: You should have a database created manually on your PostgreSQL then set it along with its credentials in ormconfig.json file.
 
 ```
 
@@ -61,4 +65,4 @@ The server may now be running at http://127.0.0.1:3333/
 License
 ----
 
-MIT
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
